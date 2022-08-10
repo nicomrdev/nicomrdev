@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A software developer from Argentina!</h3>
 
-- 🔭 I’m currently working on [my portfolio](cooming soon)
+- 🔭 I’m currently working on my portfolio
 
 - 🌱 I’m currently learning **python fundamentals**
 
